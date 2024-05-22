@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="302"
+   height="85.573"
+   viewBox="0 0 302 85.573"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="preloader.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.2417219"
+     inkscape:cx="57.545052"
+     inkscape:cy="-35.909897"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12" />
+  <g
+     id="g12"
+     transform="translate(-48.623338,141.85524)">
+    <path
+       d="m 313.37826,-80.514712 c 7.50933,0 12.97066,-3.413332 16.04266,-9.04533 l 0.17067,6.826664 c 0,0.768 0.34133,1.194666 1.10933,1.194666 h 3.66933 c 0.768,0 1.10933,-0.426666 1.10933,-1.194666 v -39.423982 c 0,-0.768 -0.34133,-1.19467 -1.10933,-1.19467 h -3.66933 c -0.768,0 -1.10933,0.42667 -1.10933,1.19467 l -0.17067,6.99733 c -3.072,-5.54667 -8.53333,-9.216 -16.04266,-9.216 -12.20266,0 -20.56532,9.472 -20.56532,21.93066 0,12.543995 8.36266,21.930658 20.56532,21.930658 z m -14.59199,-21.930658 c 0,-9.64266 6.48533,-16.21333 15.44532,-16.21333 8.96,0 15.18933,6.656 15.18933,16.384 0,9.64266 -6.22933,16.042657 -15.18933,16.042657 -8.95999,0 -15.44532,-6.485331 -15.44532,-16.213327 z"
+       id="text11"
+       style="font-size:85.3333px;line-height:0;font-family:'FONTSPRING DEMO - Greycliff CF';-inkscape-font-specification:'FONTSPRING DEMO - Greycliff CF';letter-spacing:-6.37px;word-spacing:0px;fill:#000000;stroke:#2cf24e;stroke-width:1.9;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;stroke-dashoffset:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;paint-order:normal"
+       aria-label="a" />
+    <path
+       d="m 261.77042,-64.852233 h 3.84 c 0.68267,0 1.19467,-0.341333 1.45067,-1.023999 l 22.01599,-55.551978 c 0.34133,-0.93867 0,-1.45067 -0.93867,-1.45067 h -3.92533 c -0.68267,0 -1.10933,0.34134 -1.36533,1.024 l -12.97067,33.962657 -12.88532,-33.962657 c -0.256,-0.68266 -0.68267,-1.024 -1.36534,-1.024 h -3.92533 c -0.93866,0 -1.28,0.512 -0.93866,1.45067 l 16.04266,40.533317 -5.888,14.762661 c -0.34133,0.767999 0,1.279999 0.85333,1.279999 z"
+       id="text10"
+       style="font-size:85.3333px;line-height:0;font-family:'FONTSPRING DEMO - Greycliff CF';-inkscape-font-specification:'FONTSPRING DEMO - Greycliff CF';letter-spacing:-6.37px;word-spacing:0px;fill:#000000;stroke:#2cf24e;stroke-width:1.9;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;stroke-dashoffset:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;paint-order:normal"
+       aria-label="y" />
+    <path
+       d="m 187.38989,-82.011856 h 3.92533 c 0.768,0 1.10934,-0.426667 1.10934,-1.194666 v -24.319988 c 0,-7.25333 3.66933,-11.60533 9.89866,-11.60533 6.05866,0 9.47199,4.26666 9.47199,11.60533 v 24.319988 c 0,0.767999 0.34134,1.194666 1.10934,1.194666 h 3.92533 c 0.768,0 1.10933,-0.426667 1.10933,-1.194666 v -24.319988 c 0,-7.25333 4.18133,-11.60533 10.32533,-11.60533 6.05866,0 9.04533,4.26666 9.04533,11.60533 v 24.319988 c 0,0.767999 0.34133,1.194666 1.10933,1.194666 h 3.92533 c 0.768,0 1.10934,-0.426667 1.10934,-1.194666 v -25.002658 c 0,-11.00799 -5.20533,-16.63999 -13.824,-16.63999 -7.08266,0 -11.00799,3.66933 -13.14132,8.192 -2.13334,-5.46134 -6.48534,-8.192 -12.288,-8.192 -6.144,0 -9.81333,3.15733 -11.86133,7.08266 l -0.17066,-4.77866 c 0,-0.93867 -0.34134,-1.28 -1.19467,-1.28 h -3.584 c -0.768,0 -1.10933,0.42666 -1.10933,1.19466 v 39.423988 c 0,0.767999 0.34133,1.194666 1.10933,1.194666 z"
+       id="text9"
+       style="font-size:85.3333px;line-height:0;font-family:'FONTSPRING DEMO - Greycliff CF';-inkscape-font-specification:'FONTSPRING DEMO - Greycliff CF';letter-spacing:-6.37px;word-spacing:0px;fill:#000000;stroke:#2cf24e;stroke-width:1.9;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;stroke-dashoffset:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;paint-order:normal"
+       aria-label="m" />
+    <path
+       d="m 156.67879,-80.35699 c 6.912,0 11.52,-3.413331 13.90933,-7.679996 l 0.17067,5.375997 c 0.0853,0.938667 0.34133,1.28 1.19466,1.28 h 3.66933 c 0.768,0 1.10934,-0.426667 1.10934,-1.194666 v -39.423985 c 0,-0.768 -0.34134,-1.19466 -1.10934,-1.19466 h -4.01066 c -0.768,0 -1.024,0.42666 -1.024,1.19466 v 23.978658 c 0,7.423997 -5.29066,11.946662 -12.20266,11.946662 -6.912,0 -10.752,-4.522665 -10.752,-11.946662 v -23.978658 c 0,-0.768 -0.34133,-1.19466 -1.10933,-1.19466 h -3.92533 c -0.768,0 -1.10933,0.42666 -1.10933,1.19466 v 24.575991 c 0,11.093329 6.14399,17.066659 15.18932,17.066659 z"
+       id="text8"
+       style="font-size:85.3333px;line-height:0;font-family:'FONTSPRING DEMO - Greycliff CF';-inkscape-font-specification:'FONTSPRING DEMO - Greycliff CF';letter-spacing:-6.37px;word-spacing:0px;fill:#000000;stroke:#2cf24e;stroke-width:1.9;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;stroke-dashoffset:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;paint-order:normal"
+       aria-label="u" />
+    <path
+       d="m 115.35283,-81.618716 c 12.11733,0 21.33333,-9.471996 21.33333,-21.930654 0,-12.45866 -9.216,-21.93066 -21.33333,-21.93066 -12.20266,0 -21.418656,9.472 -21.418656,21.93066 0,12.458658 9.215996,21.930654 21.418656,21.930654 z M 99.907505,-103.54937 c 0,-9.472 6.570665,-16.21333 15.445325,-16.21333 8.78933,0 15.36,6.74133 15.36,16.21333 0,9.471993 -6.57067,16.213323 -15.36,16.213323 -8.87466,0 -15.445325,-6.74133 -15.445325,-16.213323 z"
+       id="text7"
+       style="font-size:85.3333px;line-height:0;font-family:'FONTSPRING DEMO - Greycliff CF';-inkscape-font-specification:'FONTSPRING DEMO - Greycliff CF';letter-spacing:-6.37px;word-spacing:0px;fill:#000000;stroke:#2cf24e;stroke-width:1.9;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;stroke-dashoffset:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;paint-order:normal"
+       aria-label="o" />
+    <path
+       d="m 74.919901,-81.880023 c 7.509331,0 14.250661,-4.181331 14.250661,-12.031995 0,-6.485332 -4.351998,-9.642662 -9.813329,-11.861332 l -4.095998,-1.70666 c -4.266665,-1.792 -7.167997,-3.24267 -7.167997,-7.25333 0,-3.92533 3.327998,-5.80267 7.167997,-5.80267 3.071998,0 5.802664,1.28 8.447996,4.01067 0.768,0.768 1.28,0.85333 2.047999,0 l 1.365333,-1.536 c 0.512,-0.59733 0.597333,-1.28 0.08533,-1.87733 -2.986665,-3.75467 -7.423997,-5.80267 -12.202661,-5.80267 -6.997331,0 -12.799995,4.26667 -12.799995,11.17866 0,5.97334 4.266665,9.13067 9.386663,11.264 l 4.949331,2.048 c 3.925332,1.621331 6.570664,3.498664 6.570664,7.423996 0,4.351998 -3.498665,6.48533 -8.362663,6.48533 -4.607998,0 -7.679997,-1.962666 -10.239996,-4.693331 -0.682666,-0.682666 -1.450666,-0.682666 -1.962666,0 l -1.279999,1.706666 c -0.512,0.768 -0.512,1.450666 0.08533,2.133332 2.303999,2.986666 6.826664,6.314664 13.567994,6.314664 z"
+       id="text12"
+       style="font-size:85.3333px;line-height:0;font-family:'FONTSPRING DEMO - Greycliff CF';-inkscape-font-specification:'FONTSPRING DEMO - Greycliff CF';letter-spacing:-6.37px;word-spacing:0px;fill:#000000;stroke:#2cf24e;stroke-width:1.9;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;stroke-dashoffset:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;paint-order:normal"
+       aria-label="s" />
+  </g>
+</svg>
